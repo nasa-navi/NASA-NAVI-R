@@ -1,0 +1,13 @@
+# Ignore data files
+data/
+*.csv
+
+# Ignore R/RStudio temporary files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
